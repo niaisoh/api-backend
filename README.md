@@ -1,1 +1,1 @@
-Python create backend for api managed messege with RabbitMQ 
+Python creates a backend for api managed message with RabbitMQ
