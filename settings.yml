@@ -1,0 +1,12 @@
+rabbitmq:
+  host: localhost
+  user: guest
+  pass: guest
+
+database:
+  host: localhost
+  port: 27017
+#  user:
+#  pass:
+
+
